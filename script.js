@@ -50,6 +50,7 @@ bt2.addEventListener("click", function () {
 bt1.addEventListener("click", function () {
     count = 0;
     conuter.textContent = 0;
+    inputlimit.value = null;
     
     
 });
